@@ -1,8 +1,20 @@
 {
+  
 "estimaciones": [
 {
-"linea": "03",
+"linea": "04",
 "minutos1": 2,
-"minutos2": 17
+"minutos2": 14
+},
+{
+"linea": "14",
+"minutos1": 16,
+"minutos2": 38
+},
+{
+"linea": "E",
+"minutos1": 89,
+"minutos2": 209
 }
-]}
+]
+}
