@@ -1,10 +1,8 @@
 {
-estimaciones: [
+"estimaciones": [
 {
-linea: "03",
-minutos1: 2,
-minutos2: 17
+"linea": "03",
+"minutos1": 2,
+"minutos2": 17
 }
-],
-res: 1
-}
+]}
